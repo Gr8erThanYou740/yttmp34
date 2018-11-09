@@ -1,0 +1,30 @@
+{
+  "name": "transmogrify",
+  "version": "1.0.0",
+  "description": "Convert YouTube videos to MP3 audio files in the browser.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamJakob/transmogrify.git"
+  },
+  "keywords": [
+    "converter",
+    "youtube",
+    "to",
+    "mp3",
+    "samjakob",
+    "transmogrify",
+    "audio",
+    "video",
+    "client-side"
+  ],
+  "author": "SamJakob",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamJakob/transmogrify/issues"
+  },
+  "homepage": "https://github.com/SamJakob/transmogrify#readme"
+}
